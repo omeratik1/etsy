@@ -1,0 +1,5 @@
+{
+  "name": "EtsyRanker AI",
+  "description": "Advanced keyword research and SEO tool for Etsy sellers using Google Gemini 2.5 with Search Grounding.",
+  "requestFramePermissions": []
+}
